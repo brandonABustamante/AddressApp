@@ -1,0 +1,14 @@
+# Eclipse & Java
+.classpath
+.project
+.settings/
+bin/
+target/
+*.log
+
+# macOS
+.DS_Store
+
+# JavaFX build files
+build.fxbuild
+
